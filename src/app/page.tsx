@@ -7,6 +7,6 @@ export default function Home() {
 
 
   return (
-    <div>Logged</div>
+    <div>You are logged in</div>
   );
 }
